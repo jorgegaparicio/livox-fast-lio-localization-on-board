@@ -1,0 +1,2 @@
+add_executable(fastlio_remap_node src/node_remap.cpp)
+target_link_libraries(fastlio_remap_node ${catkin_LIBRARIES})
